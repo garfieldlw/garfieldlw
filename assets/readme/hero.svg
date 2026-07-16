@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="100%">
+  <title>garfieldlw - Backend developer specializing in messaging systems and distributed infrastructure</title>
+  <desc>A GitHub profile hero showing a terminal with Go build commands and the username</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#161b22;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#58a6ff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#bc8cff;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="400" fill="url(#bg)" rx="8"/>
+  
+  <!-- Grid pattern -->
+  <g opacity="0.05">
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#58a6ff" stroke-width="0.5"/>
+    </pattern>
+    <rect width="1200" height="400" fill="url(#grid)"/>
+  </g>
+  
+  <!-- Terminal cursor motif -->
+  <g transform="translate(80, 120)">
+    <rect x="0" y="0" width="320" height="180" fill="#0d1117" stroke="#30363d" stroke-width="1" rx="6"/>
+    <rect x="0" y="0" width="320" height="28" fill="#161b22" rx="6"/>
+    <circle cx="16" cy="14" r="4" fill="#ff5f57"/>
+    <circle cx="32" cy="14" r="4" fill="#febc2e"/>
+    <circle cx="48" cy="14" r="4" fill="#28c840"/>
+    <text x="80" y="18" font-family="monospace" font-size="11" fill="#8b949e">garfieldlw@dev</text>
+    <text x="16" y="56" font-family="monospace" font-size="12" fill="#7ee787">$</text>
+    <text x="32" y="56" font-family="monospace" font-size="12" fill="#c9d1d9">go build ./...</text>
+    <text x="16" y="104" font-family="monospace" font-size="12" fill="#7ee787">$</text>
+    <text x="32" y="104" font-family="monospace" font-size="12" fill="#c9d1d9">docker compose up</text>
+    <text x="16" y="128" font-family="monospace" font-size="12" fill="#7ee787">$</text>
+    <text x="32" y="128" font-family="monospace" font-size="12" fill="#c9d1d9">kafka-topics --create</text>
+    <rect x="32" y="140" width="8" height="14" fill="#58a6ff" opacity="0.8">
+      <animate attributeName="opacity" values="0.8;0;0.8" dur="2.5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  
+  <!-- Title area -->
+  <g transform="translate(460, 100)">
+    <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="52" font-weight="700" fill="#f0f6fc">garfieldlw</text>
+    <text x="0" y="40" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" fill="#8b949e">Code magician &amp; bug maker</text>
+    <text x="0" y="70" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="14" fill="#58a6ff">Backend · Infrastructure · Messaging Systems</text>
+  </g>
+  
+  <!-- Language badges -->
+  <g transform="translate(460, 210)">
+    <rect x="0" y="0" width="60" height="28" fill="#00ADD8" rx="14" opacity="0.15"/>
+    <text x="30" y="19" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="600" fill="#00ADD8" text-anchor="middle">Go</text>
+  </g>
+  
+  <!-- Location -->
+  <g transform="translate(80, 340)">
+    <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" fill="#8b949e">📍 Hangzhou, China</text>
+  </g>
+</svg>

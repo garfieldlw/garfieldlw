@@ -1,12 +1,12 @@
-# About me
+<p align="center">
+  <img src="./assets/readme/hero.svg" width="100%" alt="garfieldlw - Backend developer specializing in messaging systems and distributed infrastructure">
+</p>
 
-Code magician and bug maker. Programmer by day, dreamer by night.
+## About
 
+Backend and infrastructure developer focused on messaging systems, distributed systems, and developer tools. Building reliable systems with Go.
 
+## Get in Touch
 
-
-## Other
-* bug.x.maker@gmail.com
-
-
-
+- Email: bug.x.maker@gmail.com
+- GitHub: [@garfieldlw](https://github.com/garfieldlw)
