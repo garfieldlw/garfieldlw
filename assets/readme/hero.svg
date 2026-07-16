@@ -117,8 +117,8 @@
     </g>
   </g>
   
-  <!-- Location (bottom left) -->
-  <g transform="translate(60, 400)">
+  <!-- Location (aligned with skills) -->
+  <g transform="translate(275, 400)">
     <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" fill="#8b949e">📍 Hangzhou, China</text>
   </g>
 </svg>
