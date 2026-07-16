@@ -1,10 +1,14 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg" width="100%" alt="garfieldlw - Backend developer specializing in messaging systems and distributed infrastructure">
+  <img src="./assets/readme/hero.svg" width="100%" alt="garfieldlw - Architect specializing in AI applications, IM systems, and distributed infrastructure">
 </p>
 
 ## About
 
-Backend and infrastructure developer focused on messaging systems, distributed systems, and developer tools. Building reliable systems with Go.
+Architect and backend developer with expertise in:
+
+- **AI Applications** - Building intelligent systems and AI-powered solutions
+- **IM Systems** - Designing and developing instant messaging platforms
+- **Cloud Native** - Kubernetes, Docker, and distributed infrastructure
 
 ## Get in Touch
 
